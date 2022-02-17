@@ -7,6 +7,6 @@ public class Example {
       int num1 = 5, num2 = 15, sum;
       sum = num1 + num2;
 
-      System.out.println("Sum these numbers is: "+sum);
+      System.out.println("Sum numbers is: "+sum);
    }
 }
