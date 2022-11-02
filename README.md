@@ -153,7 +153,3 @@ For a small example -
 
 **Bot**: Your room(s) have been booked. Number of Deluxe rooms booked : 1
 
-# More information
-Learn more about Rasa [here](https://rasa.com/docs/rasa/user-guide/rasa-tutorial/).
-
-Watch Rasa Masterclass videos [here](https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc).
