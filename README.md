@@ -1,5 +1,5 @@
-# rasa-hotel-chatbot
-A simple chatbot using Rasa.
+# ASK-Me chatbot
+A BnB's hotel chatbot using RASA and NLP
 
 # About
 The chatbot responds to and handle the following basic functionalities
